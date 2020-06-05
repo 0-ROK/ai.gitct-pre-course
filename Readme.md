@@ -44,9 +44,7 @@ _[출처 : 네이버(주)](https://www.navercorp.com/promotion/pressReleasesView
 
 인공지능은 기존의 흑백 사진을 컬러로 변환해 주거나, 강아지 사진을 마치 실제 촬영된 것처럼 그럴듯하게 만들어내는 등 놀랍게 발전하고 있습니다.
 
-_출처 : [동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/article_no/9290), [A Neural Algorithm of Artistic Style_
-
-_[](https://arxiv.org/abs/1508.06576)_
+_출처 : [동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/article_no/9290), [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)_
 
 ---
 
