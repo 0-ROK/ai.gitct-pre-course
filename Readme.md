@@ -22,12 +22,11 @@ _[출처 : 네이버(주)](https://www.navercorp.com/promotion/pressReleasesView
 
 ### 이미지
 
-![1-2](https://user-images.githubusercontent.com/54888076/83895665-f9b77a80-a78d-11ea-9c80-0fc88d306393.jpg)
-
+![1-1](https://user-images.githubusercontent.com/54888076/83895406-9b8a9780-a78d-11ea-8c36-406f4f811693.png)
 
 인공지능은 과거 인간의 전유물로만 여겨졌던 창작활동에도 도전하고 있습니다. 구글은 2015년, **예술 스타일의 신경 알고리즘(A Neural Algorithm of Artistic Style)**이라는 논문을 발표했습니다. 논문에서 구현한 모델에 사진을 입력하면 해당 사진을 반 고흐, 뭉크 등 유명 화가의 화풍으로 사진을 순식간에 재구성합니다. 비슷한 시기에 나온 고흐 화풍의 애니메이션 영화 <러빙 빈센트>가 제작기간 10년에 6만장이 넘는 작품으로 제작된 것과 대조적이죠. 
 
-![1-2](https://drive.google.com/file/d/188wSdYIMTZKuow6eC0eAdldFNZRJUIzL/view?usp=sharing)
+![1-2](https://user-images.githubusercontent.com/54888076/83895665-f9b77a80-a78d-11ea-9c80-0fc88d306393.jpg)
 
 구글은 또한 인공 신경망 기술을 사용하여 **딥드림(Deep Dream)** 모델 또한 만들었습니다. 이 모델은 입력된 사진 속 패턴을 분석해 물체를 인식합니다. 그 다음 이미지를 조작하여 다양한 패턴을 추가해 새로운 이미지를 창조해냅니다.
 
@@ -40,4 +39,3 @@ _출처 : [동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/art
 **자율주행**은 운전자의 조작 없이 자동차 스스로 운행이 가능하게 하는 기술입니다. 자율주행은 카메라, 라이더 센서, 적외선 센서 등으로 구현됩니다. 이 중 특히 카메라를 통해 촬영된 수많은 주행 영상 데이터들을 **인공 신경망(Neural Network)**을 통해 학습시키며 발전해나가고 있습니다. **구글 웨이모**, **GM 크루즈**, **포드 오토노머스 비히클즈** 등이 선구적으로 연구를 수행해나가고 있습니다. 양산형 모델에서 가장 앞선 수준의 자율주행기능을 구현하고 있는 **테슬라**의 **오토 파일럿**은 테슬라의 차량을 통해 계속하여 데이터를 축적하고 발전하여 업데이트되고 있습니다.
 
 *출처 : [연합뉴스](https://www.yna.co.kr/view/AKR20190322175300003), [M오토데일리](https://www.autodaily.co.kr/news/articleView.html?idxno=417029), [LG CNS](https://blog.lgcns.com/1997)*
-
