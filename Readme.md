@@ -22,7 +22,8 @@ _[출처 : 네이버(주)](https://www.navercorp.com/promotion/pressReleasesView
 
 ### 이미지
 
-![1-1](https://drive.google.com/file/d/1KWJbxswumkTtWGM80tVri1WXONCgGDoJ/view?usp=sharing)
+![1-1](https://user-images.githubusercontent.com/54888076/83895406-9b8a9780-a78d-11ea-8c36-406f4f811693.png)
+
 
 인공지능은 과거 인간의 전유물로만 여겨졌던 창작활동에도 도전하고 있습니다. 구글은 2015년, **예술 스타일의 신경 알고리즘(A Neural Algorithm of Artistic Style)**이라는 논문을 발표했습니다. 논문에서 구현한 모델에 사진을 입력하면 해당 사진을 반 고흐, 뭉크 등 유명 화가의 화풍으로 사진을 순식간에 재구성합니다. 비슷한 시기에 나온 고흐 화풍의 애니메이션 영화 <러빙 빈센트>가 제작기간 10년에 6만장이 넘는 작품으로 제작된 것과 대조적이죠. 
 
