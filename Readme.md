@@ -28,7 +28,11 @@ _[출처 : nVIDIA 블로그](https://blogs.nvidia.co.kr/2019/06/19/japanese-text
 
 _[출처 : 네이버(주)](https://www.navercorp.com/promotion/pressReleasesView/30240), [aitimes](http://www.aitimes.kr/news/articleView.html?idxno=12956)_
 
+---
+
 ### 이미지
+
+---
 
 ![1-1](https://user-images.githubusercontent.com/54888076/83895406-9b8a9780-a78d-11ea-8c36-406f4f811693.png)
 
