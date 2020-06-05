@@ -4,7 +4,11 @@
 
 인공지능은 현재 다양한 제품과 서비스에서 사용되고 있는데요. 4가지 분야에서의 사례를 조사해 보았습니다.
 
+---
+
 ### 언어
+
+---
 
 자연재해, 전쟁 등의 상황으로 인류의 역사를 담은 진귀한 문서들은 언제든 파괴될 수 있습니다. 이를 방지하기 위해 학자들은 오래된 고문서들을 스캔하여 디지털화하고 있습니다. 이러한 **언어학 연구**에 사진상의 문자를 인식하는 **OCR(Optical Character Recognition), 광학식 문자 인식** 기술이 사용됩니다.
 
@@ -14,7 +18,11 @@
 
 _[출처 : nVIDIA 블로그](https://blogs.nvidia.co.kr/2019/06/19/japanese-texts-ai/)_
 
+---
+
 ### 음성
+
+---
 
 **TTS(Text To Speech)** 기술은 텍스트 데이터를 음성으로 읽어주는 기술입니다. 네이버의 인공지능 플랫폼 **클로바(Clova)**에 탑재된 **nVoice**는 네이버에서 자체적으로 개발한 TTS입니다.  기존의 **UTS(Unit-selection Text-to-Speech)** 기술은  한 사람의 목소리를 자연스럽게 구현해내기 위해 40시간 이상의 녹음 시간이 필요했습니다.  네이버의 nVoice는 그들이 개발한 **HDTS(Hybid DNN Text-to-Speech)** 기술을 통해 단 4시간의 녹음으로도 배우 유인나 씨의 목소리를 매우 자연스럽게 구현해냈습니다. 인공지능 기술은 음성이 필요한 곳에 성우 없이 혹은 더 적은 녹음 시간으로 음성을 적극적으로 활용할 수 있게 하고 있습니다.
 
@@ -32,10 +40,18 @@ _[출처 : 네이버(주)](https://www.navercorp.com/promotion/pressReleasesView
 
 인공지능은 기존의 흑백 사진을 컬러로 변환해 주거나, 강아지 사진을 마치 실제 촬영된 것처럼 그럴듯하게 만들어내는 등 놀랍게 발전하고 있습니다.
 
-_출처 : [동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/article_no/9290), [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)_
+_출처 : [동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/article_no/9290), [A Neural Algorithm of Artistic Style_
+
+_[](https://arxiv.org/abs/1508.06576)_
+
+---
 
 ### 자율주행
+
+---
 
 **자율주행**은 운전자의 조작 없이 자동차 스스로 운행이 가능하게 하는 기술입니다. 자율주행은 카메라, 라이더 센서, 적외선 센서 등으로 구현됩니다. 이 중 특히 카메라를 통해 촬영된 수많은 주행 영상 데이터들을 **인공 신경망(Neural Network)**을 통해 학습시키며 발전해나가고 있습니다. **구글 웨이모**, **GM 크루즈**, **포드 오토노머스 비히클즈** 등이 선구적으로 연구를 수행해나가고 있습니다. 양산형 모델에서 가장 앞선 수준의 자율주행기능을 구현하고 있는 **테슬라**의 **오토 파일럿**은 테슬라의 차량을 통해 계속하여 데이터를 축적하고 발전하여 업데이트되고 있습니다.
 
 *출처 : [연합뉴스](https://www.yna.co.kr/view/AKR20190322175300003), [M오토데일리](https://www.autodaily.co.kr/news/articleView.html?idxno=417029), [LG CNS](https://blog.lgcns.com/1997)*
+
+---
