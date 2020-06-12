@@ -2,6 +2,10 @@
 
 ## 1주차 과제 (2020.06.02)
 
+<details>
+<summary>인공지능 사례 분석</summary>
+<div markdown="1">
+
 인공지능은 현재 다양한 제품과 서비스에서 사용되고 있는데요. 4가지 분야에서의 사례를 조사해 보았습니다.
 
 ---
@@ -57,3 +61,7 @@ _[출처 : 동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/art
 *[출처 : 연합뉴스](https://www.yna.co.kr/view/AKR20190322175300003), [M오토데일리](https://www.autodaily.co.kr/news/articleView.html?idxno=417029), [LG CNS](https://blog.lgcns.com/1997)*
 
 ---
+
+
+</div>
+</details>
