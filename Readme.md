@@ -6,6 +6,7 @@
 <summary>인공지능 사례 분석</summary>
 <div markdown="1">
 
+
 인공지능은 현재 다양한 제품과 서비스에서 사용되고 있는데요. 4가지 분야에서의 사례를 조사해 보았습니다.
 
 ---
@@ -62,6 +63,11 @@ _[출처 : 동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/art
 
 ---
 
-
 </div>
 </details>
+
+---
+
+## 2주차 과제 
+
+- [파이썬과 인공지능 기초수학](https://github.com/0-ROK/ai.gitct-pre-course/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
