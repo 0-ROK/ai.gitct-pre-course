@@ -68,6 +68,6 @@ _[출처 : 동아비즈니스리뷰](https://dbr.donga.com/article/view/1303/art
 
 ---
 
-## 2주차 과제 
+## 2주차 과제 (2020.06.12)
 
 - [파이썬과 인공지능 기초수학](https://github.com/0-ROK/ai.gitct-pre-course/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
